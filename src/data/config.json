@@ -1,0 +1,1066 @@
+{
+  "lastUpdated": "2025-04-10 12:14:00",
+  "lang": "es",
+  "userData": {
+    "userId": "",
+    "userName": "",
+    "userMSISDN": "",
+    "userEmail": "",
+    "userPoints": 0,
+    "userAvatar": ""
+  },
+  "validPeriod": {
+    "startDate": "2024-10-20 12:00:00",
+    "endDate": "2025-11-20 23:59:00"
+  },
+  "config": {
+    "triesAllowedPerDay": 20000000,
+    "countdownSeconds": 15,
+    "amountAnswersToChangeCategory": 3,
+    "pointsCorrect": 1000,
+    "pointsWrong": 500,
+    "pointsBonus": 1000
+  },
+  "colors": {
+    "background": "#9f475d",
+    "backgroundCardQuestion": "#e40f18",
+    "wrong": "#ef1f1f",
+    "correct": "#35a333",
+    "title": "#e7cf42",
+    "text": "#ffffff",
+    "primary": "#9f475d",
+    "primaryLight": "#c15772",
+    "secondary": "#e7cf42",
+    "nextBtnGradient": "linear-gradient(180deg, #e7cf42 50%, #a7952c 100%)",
+    "answerBtnGradient": "#b6b6b6"
+  },
+  "images": {
+    "es": {
+      "logoHeader": "/img/logo.webp",
+      "logoHeaderMenu": "/img/logo.webp",
+      "rewardsImages": [
+        {
+          "src": "/img/premio01.webp",
+          "name": "prize"
+        },
+        {
+          "src": "/img/premio01.webp",
+          "name": "prize"
+        },
+        {
+          "src": "/img/premio01.webp",
+          "name": "prize"
+        }
+      ]
+    },
+    "madeBy": "/img/by-memoob.webp",
+    "backgroundApp": "",
+    "spinButton": "/img/girar-icon.webp",
+    "rewardsButton": "/img/premios-icon.webp",
+    "termsButton": "/img/bases-icon.webp",
+    "backgroundPoints": "/img/barra-puntos.webp",
+    "backgroundPointsMenu": "/img/puntaje-perfil.webp",
+    "rouletteSpinAgain": "/img/volveratirar.webp",
+    "circleQuestionsCounter": "/img/circulo-preguntas.webp"
+  },
+  "links": {
+    "termsURL": "https://google.com"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Cultura y Paladar",
+      "imgURL": "/img/categoria-cultura-y-paladar.webp",
+      "color": "#536ea9",
+      "bonus": false,
+      "questions": [
+        {
+          "id": 1,
+          "title": "¿Cuál de los siguientes es un plato típico de la India?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Siomay",
+              "isCorrect": false
+            },
+            {
+              "text": "Sajji",
+              "isCorrect": false
+            },
+            {
+              "text": "Pan Naan",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "El Goulash es un plato tradicional de la gastronomía...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Húngara",
+              "isCorrect": true
+            },
+            {
+              "text": "Búlgara",
+              "isCorrect": false
+            },
+            {
+              "text": "Croata",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "¿Cuál es el elemento esencial de la Paella?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Pollo",
+              "isCorrect": false
+            },
+            {
+              "text": "Arroz",
+              "isCorrect": true
+            },
+            {
+              "text": "Porotos",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "¿Cuál es el plato más consumido en Venezuela?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Pabellón Criollo",
+              "isCorrect": true
+            },
+            {
+              "text": "Arepa",
+              "isCorrect": false
+            },
+            {
+              "text": "Cachapa",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "El primer postre de la historia fue...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Torta de Chocolate",
+              "isCorrect": false
+            },
+            {
+              "text": "Helado",
+              "isCorrect": false
+            },
+            {
+              "text": "Torta de Queso",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "La comida que nunca puede faltar en un plato de Zambia es...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Matapa",
+              "isCorrect": false
+            },
+            {
+              "text": "Nshima",
+              "isCorrect": true
+            },
+            {
+              "text": "Ugali",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "¿Qué infusión comparten Argentina y Uruguay?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Tereré",
+              "isCorrect": false
+            },
+            {
+              "text": "Chimarro",
+              "isCorrect": false
+            },
+            {
+              "text": "Mate",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "¿Qué famosa comida se originó en China?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Hamburguesas",
+              "isCorrect": false
+            },
+            {
+              "text": "Pastas",
+              "isCorrect": true
+            },
+            {
+              "text": "Ceviche",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "¿Bebida típica de la gastronomía rusa?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Vodka",
+              "isCorrect": true
+            },
+            {
+              "text": "Tequila",
+              "isCorrect": false
+            },
+            {
+              "text": "Whisky",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "¿Qué festival gastronómico realiza Cracovia cada año?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Flaki Festival",
+              "isCorrect": false
+            },
+            {
+              "text": "Barszcz Festival",
+              "isCorrect": false
+            },
+            {
+              "text": "Pierogi Festival",
+              "isCorrect": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Costumbres y Creencias",
+      "imgURL": "/img/categoria-costumbres-y-creencias.webp",
+      "color": "#e7cf42",
+      "bonus": false,
+      "questions": [
+        {
+          "id": 1,
+          "title": "¿Qué plato es típico de la comida judia?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Kyshe",
+              "isCorrect": false
+            },
+            {
+              "text": "Knishes",
+              "isCorrect": true
+            },
+            {
+              "text": "Nishes",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "¿Por qué celebran el Midsommar en Suecia?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Dan bienvenida al verano",
+              "isCorrect": true
+            },
+            {
+              "text": "Da comienzo a la cosecha",
+              "isCorrect": false
+            },
+            {
+              "text": "Es el año nuevo sueco",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "El mejor mercado navideño de Europa se encuentra en...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Vilnius",
+              "isCorrect": false
+            },
+            {
+              "text": "Budapest",
+              "isCorrect": true
+            },
+            {
+              "text": "Praga",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "¿En qué continente esta aceptada la poligamia?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Europa",
+              "isCorrect": false
+            },
+            {
+              "text": "Oceanía",
+              "isCorrect": false
+            },
+            {
+              "text": "África",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "¿Qué comida no comen los musulmanes?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Cebada",
+              "isCorrect": false
+            },
+            {
+              "text": "Cerdo",
+              "isCorrect": true
+            },
+            {
+              "text": "Lentejas",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "¿Cómo festejan el 31 de octubre en Costa Rica?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Quema de muñecos",
+              "isCorrect": false
+            },
+            {
+              "text": "Fiesta de disfraces",
+              "isCorrect": false
+            },
+            {
+              "text": "Desfiles de mascaradas",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "¿Cómo se llama la fiesta de colores de la India?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Holi Festival",
+              "isCorrect": true
+            },
+            {
+              "text": "Hul Festival",
+              "isCorrect": false
+            },
+            {
+              "text": "Jol Festival",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "¿Cuál es el templo budista más grande?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Wat Arun",
+              "isCorrect": false
+            },
+            {
+              "text": "Tōdai-ji",
+              "isCorrect": false
+            },
+            {
+              "text": "Borobudur",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "¿Por qué los griegos rompen platos en sus celebraciones?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Ahuyenta la mala suerte",
+              "isCorrect": false
+            },
+            {
+              "text": "Demostrar alegría",
+              "isCorrect": true
+            },
+            {
+              "text": "Manifiesta riqueza",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "El Asado Negro es un plato tipico de las navidades en...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Venezuela",
+              "isCorrect": true
+            },
+            {
+              "text": "Colombia",
+              "isCorrect": false
+            },
+            {
+              "text": "Argentina",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Tips Viajeros",
+      "imgURL": "/img/categoria-tips-viajeros.webp",
+      "color": "#9f475d",
+      "bonus": false,
+      "questions": [
+        {
+          "id": 1,
+          "title": "¿Cuánto duran las visas de Work and Travel?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "1 año",
+              "isCorrect": true
+            },
+            {
+              "text": "2 años",
+              "isCorrect": false
+            },
+            {
+              "text": "3 años",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "¿Qué elemento es esencial para viajar al exterior?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Libreta de Vacunación",
+              "isCorrect": false
+            },
+            {
+              "text": "Pasaporte",
+              "isCorrect": true
+            },
+            {
+              "text": "Seguro de Vida",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "¿Cómo se llaman los alojamientos de categoría inferior a la del hotel?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Airbnb",
+              "isCorrect": false
+            },
+            {
+              "text": "Apartamentos turísticos",
+              "isCorrect": false
+            },
+            {
+              "text": "Hostel",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "La mejor manera de combatir el Jet Lag es...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Dormir apenas llegas",
+              "isCorrect": false
+            },
+            {
+              "text": "Adecuarse a los horarios del lugar",
+              "isCorrect": true
+            },
+            {
+              "text": "Tomar una bebida energética",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "¿Cuál es el peso permitido de la maleta para viajar?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "18 kilos",
+              "isCorrect": false
+            },
+            {
+              "text": "21 kilos",
+              "isCorrect": false
+            },
+            {
+              "text": "23 kilos",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "¿Qué es un free tour?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Tour gratuito en micros abiertos",
+              "isCorrect": false
+            },
+            {
+              "text": "Tour gratuito a pie",
+              "isCorrect": true
+            },
+            {
+              "text": "Tour gratuito en bicicletas",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "¿Cuál es el mejor metodo para idear un viaje turístico de pocos días?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Armar una planificación",
+              "isCorrect": true
+            },
+            {
+              "text": "Planificar sobre la marcha",
+              "isCorrect": false
+            },
+            {
+              "text": "Dejarse llevar tu intuición",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "La mejor forma de conseguir un vuelo low cost es...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Comprar en temporada alta",
+              "isCorrect": false
+            },
+            {
+              "text": "Comprar en temporada media",
+              "isCorrect": false
+            },
+            {
+              "text": "Comprar en temporada baja",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "¿Cuál es el tamaño estándar de una maleta de mano?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "45 x 25 x 20 cm",
+              "isCorrect": false
+            },
+            {
+              "text": "55 x 35 x 25 cm",
+              "isCorrect": true
+            },
+            {
+              "text": "70 x 50 x 30 cm",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "¿Qué visa de Estados Unidos te permite realizar viajes de turismo?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": " B-2",
+              "isCorrect": true
+            },
+            {
+              "text": "C-2",
+              "isCorrect": false
+            },
+            {
+              "text": "D-2",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "¿En dónde queda?",
+      "imgURL": "/img/categoria-en-donde-queda.webp",
+      "color": "#536ea9",
+      "bonus": false,
+      "questions": [
+        {
+          "id": 1,
+          "title": "¿Dónde se encuentra el Museo de Van Gogh?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Amsterdam",
+              "isCorrect": true
+            },
+            {
+              "text": "Róterdam",
+              "isCorrect": false
+            },
+            {
+              "text": "Utrecht",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "¿A qué país pertenece la Isla de Pascuas?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Australia",
+              "isCorrect": false
+            },
+            {
+              "text": "Nueva Zelanda",
+              "isCorrect": false
+            },
+            {
+              "text": "Chile",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "¿En qué país está actualmente el friso del Partenón?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Londres",
+              "isCorrect": true
+            },
+            {
+              "text": "Atenas",
+              "isCorrect": false
+            },
+            {
+              "text": "París",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "El Buda más grande del mundo está en...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Tailandia",
+              "isCorrect": true
+            },
+            {
+              "text": "China",
+              "isCorrect": false
+            },
+            {
+              "text": "Taiwán",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "¿En qué lugar de Estados Unidos está el Cloud Gate?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "New York",
+              "isCorrect": false
+            },
+            {
+              "text": "Chicago",
+              "isCorrect": true
+            },
+            {
+              "text": "Filadelfia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "La Garganta del Diablo está ubicada en...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Brasil",
+              "isCorrect": false
+            },
+            {
+              "text": "Argentina",
+              "isCorrect": true
+            },
+            {
+              "text": "Paraguay",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "¿Dónde se encuentra la selva más grande del mundo?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Asia",
+              "isCorrect": false
+            },
+            {
+              "text": "África",
+              "isCorrect": false
+            },
+            {
+              "text": "América",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "El Taj-Mahal está situado en...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Jaipur",
+              "isCorrect": false
+            },
+            {
+              "text": "Bombay",
+              "isCorrect": false
+            },
+            {
+              "text": "Agra",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "El Tesoro de Petra se encuentra en...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Egipto",
+              "isCorrect": false
+            },
+            {
+              "text": "Jordania",
+              "isCorrect": true
+            },
+            {
+              "text": "Turquía",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "¿Dónde se encuentra la librería más antigua del mundo?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Lisboa",
+              "isCorrect": true
+            },
+            {
+              "text": "Roma",
+              "isCorrect": false
+            },
+            {
+              "text": "Munich",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lugares",
+      "imgURL": "/img/categoria-lugares.webp",
+      "color": "#9f475d",
+      "bonus": false,
+      "questions": [
+        {
+          "id": 1,
+          "title": "¿Cómo se llama la librería más antigua del mundo?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Bernard",
+              "isCorrect": false
+            },
+            {
+              "text": "Bertrand",
+              "isCorrect": true
+            },
+            {
+              "text": "Bertolt",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "El lago más grande del mundo es...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Lago Victoria",
+              "isCorrect": false
+            },
+            {
+              "text": "Lago Superior",
+              "isCorrect": false
+            },
+            {
+              "text": "Mar Caspio",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Los restos del Titanic se pueden ver en...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Océano Pacífico",
+              "isCorrect": false
+            },
+            {
+              "text": "Océano Atlántico",
+              "isCorrect": true
+            },
+            {
+              "text": "Océano Índico",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "El parque nacional con mayor biodiversidad en EE.UU. es...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Yellowstone",
+              "isCorrect": true
+            },
+            {
+              "text": "Blue Ridge Parkway",
+              "isCorrect": false
+            },
+            {
+              "text": "Yosemite",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "¿Cómo se llama la estructura con forma de flor de Buenos Aires?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Flor Indígena",
+              "isCorrect": false
+            },
+            {
+              "text": "Floralis Genérica",
+              "isCorrect": true
+            },
+            {
+              "text": "Flor de Ceibo",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "El primer parque de atracciones del mundo es...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Central Pier",
+              "isCorrect": false
+            },
+            {
+              "text": "Wurstelprater",
+              "isCorrect": false
+            },
+            {
+              "text": "Bakken",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "¿Qué museo tiene la mayor colección de piezas de arte?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Museo del Louvre",
+              "isCorrect": true
+            },
+            {
+              "text": "Smithsonian Institution",
+              "isCorrect": false
+            },
+            {
+              "text": "Museo Britanico",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "En la Gran Sabana venezolana se encuentra la cascada...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Salto Grande",
+              "isCorrect": false
+            },
+            {
+              "text": "Salto Grande",
+              "isCorrect": false
+            },
+            {
+              "text": "Salto Ángel",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "¿Cuál es la playa con mayor visitas de turistas en el año?",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "Playa del Carmen",
+              "isCorrect": false
+            },
+            {
+              "text": "Bora Bora",
+              "isCorrect": true
+            },
+            {
+              "text": "Happy Bay Beach",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "El primer aeropuerto que se inauguró fue...",
+          "bonus": false,
+          "answers": [
+            {
+              "text": "College Park",
+              "isCorrect": true
+            },
+            {
+              "text": "Aeropuerto de Hamburgo",
+              "isCorrect": false
+            },
+            {
+              "text": "Aeropuerto de Shoreham",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
