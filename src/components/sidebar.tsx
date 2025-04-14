@@ -95,7 +95,7 @@ export function Sidebar({ isOpen, onClose }: SidebarProps) {
                 primaryImage={images.es.logoHeaderMenu || images.es.logoHeader}
                 fallbackImage={images.es.logoHeader}
                 alt="Logo header menu"
-                className=" max-w-[300px] mx-auto max-h-[150px]"
+                className=" max-w-[300px] mx-auto max-h-[100px]"
               />
             </div>
           </SheetTitle>

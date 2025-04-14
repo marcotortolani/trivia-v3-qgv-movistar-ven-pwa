@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-04-10 12:15:00",
+  "lastUpdated": "2025-04-10 12:21:00",
   "lang": "es",
   "userData": {
     "userId": "",
@@ -23,14 +23,14 @@
   },
   "colors": {
     "background": "#9f475d",
-    "backgroundCardQuestion": "#e40f18",
+    "backgroundCardQuestion": "#536ea9",
     "wrong": "#ef1f1f",
     "correct": "#35a333",
     "title": "#e7cf42",
     "text": "#ffffff",
-    "primary": "#9f475d",
-    "primaryLight": "#c15772",
-    "secondary": "#e7cf42",
+    "primary": "#e7cf42",
+    "primaryLight": "#a7952c",
+    "secondary": "#536ea9",
     "nextBtnGradient": "linear-gradient(180deg, #e7cf42 50%, #a7952c 100%)",
     "answerBtnGradient": "#b6b6b6"
   },
