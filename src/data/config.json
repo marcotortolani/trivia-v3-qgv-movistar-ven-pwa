@@ -69,197 +69,361 @@
   "categories": [
     {
       "id": 1,
-      "name": "Cultura y Paladar",
+      "name": {
+        "es": "Cultura y Paladar",
+        "en": "Culture and Palate",
+        "pt": "Cultura e Paladar"
+      },
       "imgURL": "/img/categoria-cultura-y-paladar.webp",
       "color": "#536ea9",
       "bonus": false,
       "questions": [
         {
           "id": 1,
-          "title": "¿Cuál de los siguientes es un plato típico de la India?",
+          "title": {
+            "es": "¿Cuál de los siguientes es un plato típico de la India?",
+            "en": "Which of the following is a typical dish from India?",
+            "pt": "Qual dos seguintes é um prato típico da Índia?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Siomay",
+              "text": {
+                "es": "Siomay",
+                "en": "Siomay",
+                "pt": "Siomay"
+              },
               "isCorrect": false
             },
             {
-              "text": "Sajji",
+              "text": {
+                "es": "Sajji",
+                "en": "Sajji",
+                "pt": "Sajji"
+              },
               "isCorrect": false
             },
             {
-              "text": "Pan Naan",
+              "text": {
+                "es": "Pan Naan",
+                "en": "Naan Bread",
+                "pt": "Pão Naan"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 2,
-          "title": "El Goulash es un plato tradicional de la gastronomía...",
+          "title": {
+            "es": "El Goulash es un plato tradicional de la gastronomía...",
+            "en": "Goulash is a traditional dish from... cuisine",
+            "pt": "O Goulash é um prato tradicional da gastronomia..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Húngara",
+              "text": {
+                "es": "Húngara",
+                "en": "Hungarian",
+                "pt": "Húngara"
+              },
               "isCorrect": true
             },
             {
-              "text": "Búlgara",
+              "text": {
+                "es": "Búlgara",
+                "en": "Bulgarian",
+                "pt": "Búlgara"
+              },
               "isCorrect": false
             },
             {
-              "text": "Croata",
+              "text": {
+                "es": "Croata",
+                "en": "Croatian",
+                "pt": "Croata"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 3,
-          "title": "¿Cuál es el elemento esencial de la Paella?",
+          "title": {
+            "es": "¿Cuál es el elemento esencial de la Paella?",
+            "en": "What is the essential element of Paella?",
+            "pt": "Qual é o elemento essencial da Paella?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Pollo",
+              "text": {
+                "es": "Pollo",
+                "en": "Chicken",
+                "pt": "Frango"
+              },
               "isCorrect": false
             },
             {
-              "text": "Arroz",
+              "text": {
+                "es": "Arroz",
+                "en": "Rice",
+                "pt": "Arroz"
+              },
               "isCorrect": true
             },
             {
-              "text": "Porotos",
+              "text": {
+                "es": "Porotos",
+                "en": "Beans",
+                "pt": "Feijão"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 4,
-          "title": "¿Cuál es el plato más consumido en Venezuela?",
+          "title": {
+            "es": "¿Cuál es el plato más consumido en Venezuela?",
+            "en": "What is the most consumed dish in Venezuela?",
+            "pt": "Qual é o prato mais consumido na Venezuela?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Pabellón Criollo",
+              "text": {
+                "es": "Pabellón Criollo",
+                "en": "Pabellón Criollo",
+                "pt": "Pabellón Criollo"
+              },
               "isCorrect": true
             },
             {
-              "text": "Arepa",
+              "text": {
+                "es": "Arepa",
+                "en": "Arepa",
+                "pt": "Arepa"
+              },
               "isCorrect": false
             },
             {
-              "text": "Cachapa",
+              "text": {
+                "es": "Cachapa",
+                "en": "Cachapa",
+                "pt": "Cachapa"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 5,
-          "title": "El primer postre de la historia fue...",
+          "title": {
+            "es": "El primer postre de la historia fue...",
+            "en": "The first dessert in history was...",
+            "pt": "A primeira sobremesa da história foi..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Torta de Chocolate",
+              "text": {
+                "es": "Torta de Chocolate",
+                "en": "Chocolate Cake",
+                "pt": "Bolo de Chocolate"
+              },
               "isCorrect": false
             },
             {
-              "text": "Helado",
+              "text": {
+                "es": "Helado",
+                "en": "Ice Cream",
+                "pt": "Sorvete"
+              },
               "isCorrect": false
             },
             {
-              "text": "Torta de Queso",
+              "text": {
+                "es": "Torta de Queso",
+                "en": "Cheesecake",
+                "pt": "Bolo de Queijo"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 6,
-          "title": "La comida que nunca puede faltar en un plato de Zambia es...",
+          "title": {
+            "es": "La comida que nunca puede faltar en un plato de Zambia es...",
+            "en": "The food that can never be missing from a Zambian plate is...",
+            "pt": "A comida que nunca pode faltar num prato da Zâmbia é..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Matapa",
+              "text": {
+                "es": "Matapa",
+                "en": "Matapa",
+                "pt": "Matapa"
+              },
               "isCorrect": false
             },
             {
-              "text": "Nshima",
+              "text": {
+                "es": "Nshima",
+                "en": "Nshima",
+                "pt": "Nshima"
+              },
               "isCorrect": true
             },
             {
-              "text": "Ugali",
+              "text": {
+                "es": "Ugali",
+                "en": "Ugali",
+                "pt": "Ugali"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 7,
-          "title": "¿Qué infusión comparten Argentina y Uruguay?",
+          "title": {
+            "es": "¿Qué infusión comparten Argentina y Uruguay?",
+            "en": "What infusion do Argentina and Uruguay share?",
+            "pt": "Que infusão Argentina e Uruguai compartilham?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Tereré",
+              "text": {
+                "es": "Tereré",
+                "en": "Tereré",
+                "pt": "Tereré"
+              },
               "isCorrect": false
             },
             {
-              "text": "Chimarro",
+              "text": {
+                "es": "Chimarro",
+                "en": "Chimarro",
+                "pt": "Chimarrão"
+              },
               "isCorrect": false
             },
             {
-              "text": "Mate",
+              "text": {
+                "es": "Mate",
+                "en": "Mate",
+                "pt": "Mate"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 8,
-          "title": "¿Qué famosa comida se originó en China?",
+          "title": {
+            "es": "¿Qué famosa comida se originó en China?",
+            "en": "What famous food originated in China?",
+            "pt": "Que comida famosa se originou na China?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Hamburguesas",
+              "text": {
+                "es": "Hamburguesas",
+                "en": "Hamburgers",
+                "pt": "Hambúrgueres"
+              },
               "isCorrect": false
             },
             {
-              "text": "Pastas",
+              "text": {
+                "es": "Pastas",
+                "en": "Pasta",
+                "pt": "Massas"
+              },
               "isCorrect": true
             },
             {
-              "text": "Ceviche",
+              "text": {
+                "es": "Ceviche",
+                "en": "Ceviche",
+                "pt": "Ceviche"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 9,
-          "title": "¿Bebida típica de la gastronomía rusa?",
+          "title": {
+            "es": "¿Bebida típica de la gastronomía rusa?",
+            "en": "Typical drink of Russian gastronomy?",
+            "pt": "Bebida típica da gastronomia russa?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Vodka",
+              "text": {
+                "es": "Vodka",
+                "en": "Vodka",
+                "pt": "Vodka"
+              },
               "isCorrect": true
             },
             {
-              "text": "Tequila",
+              "text": {
+                "es": "Tequila",
+                "en": "Tequila",
+                "pt": "Tequila"
+              },
               "isCorrect": false
             },
             {
-              "text": "Whisky",
+              "text": {
+                "es": "Whisky",
+                "en": "Whisky",
+                "pt": "Whisky"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 10,
-          "title": "¿Qué festival gastronómico realiza Cracovia cada año?",
+          "title": {
+            "es": "¿Qué festival gastronómico realiza Cracovia cada año?",
+            "en": "What gastronomic festival does Krakow hold each year?",
+            "pt": "Que festival gastronômico Cracóvia realiza todo ano?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Flaki Festival",
+              "text": {
+                "es": "Flaki Festival",
+                "en": "Flaki Festival",
+                "pt": "Festival Flaki"
+              },
               "isCorrect": false
             },
             {
-              "text": "Barszcz Festival",
+              "text": {
+                "es": "Barszcz Festival",
+                "en": "Barszcz Festival",
+                "pt": "Festival Barszcz"
+              },
               "isCorrect": false
             },
             {
-              "text": "Pierogi Festival",
+              "text": {
+                "es": "Pierogi Festival",
+                "en": "Pierogi Festival",
+                "pt": "Festival Pierogi"
+              },
               "isCorrect": true
             }
           ]
@@ -268,197 +432,361 @@
     },
     {
       "id": 2,
-      "name": "Costumbres y Creencias",
+      "name": {
+        "es": "Costumbres y Creencias",
+        "en": "Customs and Beliefs",
+        "pt": "Costumes e Crenças"
+      },
       "imgURL": "/img/categoria-costumbres-y-creencias.webp",
       "color": "#e7cf42",
       "bonus": false,
       "questions": [
         {
           "id": 1,
-          "title": "¿Qué plato es típico de la comida judia?",
+          "title": {
+            "es": "¿Qué plato es típico de la comida judía?",
+            "en": "What dish is typical of Jewish food?",
+            "pt": "Que prato é típico da comida judaica?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Kyshe",
+              "text": {
+                "es": "Kyshe",
+                "en": "Kyshe",
+                "pt": "Kyshe"
+              },
               "isCorrect": false
             },
             {
-              "text": "Knishes",
+              "text": {
+                "es": "Knishes",
+                "en": "Knishes",
+                "pt": "Knishes"
+              },
               "isCorrect": true
             },
             {
-              "text": "Nishes",
+              "text": {
+                "es": "Nishes",
+                "en": "Nishes",
+                "pt": "Nishes"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 2,
-          "title": "¿Por qué celebran el Midsommar en Suecia?",
+          "title": {
+            "es": "¿Por qué celebran el Midsommar en Suecia?",
+            "en": "Why do they celebrate Midsommar in Sweden?",
+            "pt": "Por que celebram o Midsommar na Suécia?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Dan bienvenida al verano",
+              "text": {
+                "es": "Dan bienvenida al verano",
+                "en": "They welcome summer",
+                "pt": "Dão as boas-vindas ao verão"
+              },
               "isCorrect": true
             },
             {
-              "text": "Da comienzo a la cosecha",
+              "text": {
+                "es": "Da comienzo a la cosecha",
+                "en": "It begins the harvest",
+                "pt": "Dá início à colheita"
+              },
               "isCorrect": false
             },
             {
-              "text": "Es el año nuevo sueco",
+              "text": {
+                "es": "Es el año nuevo sueco",
+                "en": "It's the Swedish New Year",
+                "pt": "É o ano novo sueco"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 3,
-          "title": "El mejor mercado navideño de Europa se encuentra en...",
+          "title": {
+            "es": "El mejor mercado navideño de Europa se encuentra en...",
+            "en": "The best Christmas market in Europe is located in...",
+            "pt": "O melhor mercado de Natal da Europa se encontra em..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Vilnius",
+              "text": {
+                "es": "Vilnius",
+                "en": "Vilnius",
+                "pt": "Vilnius"
+              },
               "isCorrect": false
             },
             {
-              "text": "Budapest",
+              "text": {
+                "es": "Budapest",
+                "en": "Budapest",
+                "pt": "Budapeste"
+              },
               "isCorrect": true
             },
             {
-              "text": "Praga",
+              "text": {
+                "es": "Praga",
+                "en": "Prague",
+                "pt": "Praga"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 4,
-          "title": "¿En qué continente esta aceptada la poligamia?",
+          "title": {
+            "es": "¿En qué continente está aceptada la poligamia?",
+            "en": "On which continent is polygamy accepted?",
+            "pt": "Em que continente a poligamia é aceita?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Europa",
+              "text": {
+                "es": "Europa",
+                "en": "Europe",
+                "pt": "Europa"
+              },
               "isCorrect": false
             },
             {
-              "text": "Oceanía",
+              "text": {
+                "es": "Oceanía",
+                "en": "Oceania",
+                "pt": "Oceania"
+              },
               "isCorrect": false
             },
             {
-              "text": "África",
+              "text": {
+                "es": "África",
+                "en": "Africa",
+                "pt": "África"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 5,
-          "title": "¿Qué comida no comen los musulmanes?",
+          "title": {
+            "es": "¿Qué comida no comen los musulmanes?",
+            "en": "What food do Muslims not eat?",
+            "pt": "Que comida os muçulmanos não comem?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Cebada",
+              "text": {
+                "es": "Cebada",
+                "en": "Barley",
+                "pt": "Cevada"
+              },
               "isCorrect": false
             },
             {
-              "text": "Cerdo",
+              "text": {
+                "es": "Cerdo",
+                "en": "Pork",
+                "pt": "Porco"
+              },
               "isCorrect": true
             },
             {
-              "text": "Lentejas",
+              "text": {
+                "es": "Lentejas",
+                "en": "Lentils",
+                "pt": "Lentilhas"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 6,
-          "title": "¿Cómo festejan el 31 de octubre en Costa Rica?",
+          "title": {
+            "es": "¿Cómo festejan el 31 de octubre en Costa Rica?",
+            "en": "How do they celebrate October 31st in Costa Rica?",
+            "pt": "Como festejam o 31 de outubro na Costa Rica?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Quema de muñecos",
+              "text": {
+                "es": "Quema de muñecos",
+                "en": "Burning effigies",
+                "pt": "Queima de bonecos"
+              },
               "isCorrect": false
             },
             {
-              "text": "Fiesta de disfraces",
+              "text": {
+                "es": "Fiesta de disfraces",
+                "en": "Costume party",
+                "pt": "Festa à fantasia"
+              },
               "isCorrect": false
             },
             {
-              "text": "Desfiles de mascaradas",
+              "text": {
+                "es": "Desfiles de mascaradas",
+                "en": "Masquerade parades",
+                "pt": "Desfiles de mascaradas"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 7,
-          "title": "¿Cómo se llama la fiesta de colores de la India?",
+          "title": {
+            "es": "¿Cómo se llama la fiesta de colores de la India?",
+            "en": "What is the name of India's festival of colors?",
+            "pt": "Como se chama a festa de cores da Índia?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Holi Festival",
+              "text": {
+                "es": "Holi Festival",
+                "en": "Holi Festival",
+                "pt": "Festival Holi"
+              },
               "isCorrect": true
             },
             {
-              "text": "Hul Festival",
+              "text": {
+                "es": "Hul Festival",
+                "en": "Hul Festival",
+                "pt": "Festival Hul"
+              },
               "isCorrect": false
             },
             {
-              "text": "Jol Festival",
+              "text": {
+                "es": "Jol Festival",
+                "en": "Jol Festival",
+                "pt": "Festival Jol"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 8,
-          "title": "¿Cuál es el templo budista más grande?",
+          "title": {
+            "es": "¿Cuál es el templo budista más grande?",
+            "en": "What is the largest Buddhist temple?",
+            "pt": "Qual é o templo budista mais grande?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Wat Arun",
+              "text": {
+                "es": "Wat Arun",
+                "en": "Wat Arun",
+                "pt": "Wat Arun"
+              },
               "isCorrect": false
             },
             {
-              "text": "Tōdai-ji",
+              "text": {
+                "es": "Tōdai-ji",
+                "en": "Tōdai-ji",
+                "pt": "Tōdai-ji"
+              },
               "isCorrect": false
             },
             {
-              "text": "Borobudur",
+              "text": {
+                "es": "Borobudur",
+                "en": "Borobudur",
+                "pt": "Borobudur"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 9,
-          "title": "¿Por qué los griegos rompen platos en sus celebraciones?",
+          "title": {
+            "es": "¿Por qué los griegos rompen platos en sus celebraciones?",
+            "en": "Why do Greeks break plates in their celebrations?",
+            "pt": "Por que os gregos quebram pratos em suas celebrações?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Ahuyenta la mala suerte",
+              "text": {
+                "es": "Ahuyenta la mala suerte",
+                "en": "It wards off bad luck",
+                "pt": "Afasta a má sorte"
+              },
               "isCorrect": false
             },
             {
-              "text": "Demostrar alegría",
+              "text": {
+                "es": "Demostrar alegría",
+                "en": "To show joy",
+                "pt": "Demonstrar alegria"
+              },
               "isCorrect": true
             },
             {
-              "text": "Manifiesta riqueza",
+              "text": {
+                "es": "Manifiesta riqueza",
+                "en": "It shows wealth",
+                "pt": "Manifesta riqueza"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 10,
-          "title": "El Asado Negro es un plato tipico de las navidades en...",
+          "title": {
+            "es": "El Asado Negro es un plato típico de las navidades en...",
+            "en": "Asado Negro is a typical Christmas dish in...",
+            "pt": "O Assado Negro é um prato típico do Natal em..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Venezuela",
+              "text": {
+                "es": "Venezuela",
+                "en": "Venezuela",
+                "pt": "Venezuela"
+              },
               "isCorrect": true
             },
             {
-              "text": "Colombia",
+              "text": {
+                "es": "Colombia",
+                "en": "Colombia",
+                "pt": "Colômbia"
+              },
               "isCorrect": false
             },
             {
-              "text": "Argentina",
+              "text": {
+                "es": "Argentina",
+                "en": "Argentina",
+                "pt": "Argentina"
+              },
               "isCorrect": false
             }
           ]
@@ -467,197 +795,361 @@
     },
     {
       "id": 3,
-      "name": "Tips Viajeros",
+      "name": {
+        "es": "Tips Viajeros",
+        "en": "Travel Tips",
+        "pt": "Dicas de Viajante"
+      },
       "imgURL": "/img/categoria-tips-viajeros.webp",
       "color": "#9f475d",
       "bonus": false,
       "questions": [
         {
           "id": 1,
-          "title": "¿Cuánto duran las visas de Work and Travel?",
+          "title": {
+            "es": "¿Cuánto duran las visas de Work and Travel?",
+            "en": "How long do Work and Travel visas last?",
+            "pt": "Quanto tempo duram os vistos de Work and Travel?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "1 año",
+              "text": {
+                "es": "1 año",
+                "en": "1 year",
+                "pt": "1 ano"
+              },
               "isCorrect": true
             },
             {
-              "text": "2 años",
+              "text": {
+                "es": "2 años",
+                "en": "2 years",
+                "pt": "2 anos"
+              },
               "isCorrect": false
             },
             {
-              "text": "3 años",
+              "text": {
+                "es": "3 años",
+                "en": "3 years",
+                "pt": "3 anos"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 2,
-          "title": "¿Qué elemento es esencial para viajar al exterior?",
+          "title": {
+            "es": "¿Qué elemento es esencial para viajar al exterior?",
+            "en": "What element is essential for traveling abroad?",
+            "pt": "Que elemento é essencial para viajar ao exterior?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Libreta de Vacunación",
+              "text": {
+                "es": "Libreta de Vacunación",
+                "en": "Vaccination Booklet",
+                "pt": "Caderneta de Vacinação"
+              },
               "isCorrect": false
             },
             {
-              "text": "Pasaporte",
+              "text": {
+                "es": "Pasaporte",
+                "en": "Passport",
+                "pt": "Passaporte"
+              },
               "isCorrect": true
             },
             {
-              "text": "Seguro de Vida",
+              "text": {
+                "es": "Seguro de Vida",
+                "en": "Life Insurance",
+                "pt": "Seguro de Vida"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 3,
-          "title": "¿Cómo se llaman los alojamientos de categoría inferior a la del hotel?",
+          "title": {
+            "es": "¿Cómo se llaman los alojamientos de categoría inferior a la del hotel?",
+            "en": "What are accommodations of a lower category than hotels called?",
+            "pt": "Como se chamam as acomodações de categoria inferior à do hotel?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Airbnb",
+              "text": {
+                "es": "Airbnb",
+                "en": "Airbnb",
+                "pt": "Airbnb"
+              },
               "isCorrect": false
             },
             {
-              "text": "Apartamentos turísticos",
+              "text": {
+                "es": "Apartamentos turísticos",
+                "en": "Tourist apartments",
+                "pt": "Apartamentos turísticos"
+              },
               "isCorrect": false
             },
             {
-              "text": "Hostel",
+              "text": {
+                "es": "Hostel",
+                "en": "Hostel",
+                "pt": "Hostel"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 4,
-          "title": "La mejor manera de combatir el Jet Lag es...",
+          "title": {
+            "es": "La mejor manera de combatir el Jet Lag es...",
+            "en": "The best way to combat Jet Lag is...",
+            "pt": "A melhor maneira de combater o Jet Lag é..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Dormir apenas llegas",
+              "text": {
+                "es": "Dormir apenas llegas",
+                "en": "Sleep as soon as you arrive",
+                "pt": "Dormir assim que chegar"
+              },
               "isCorrect": false
             },
             {
-              "text": "Adecuarse a los horarios del lugar",
+              "text": {
+                "es": "Adecuarse a los horarios del lugar",
+                "en": "Adapt to local schedules",
+                "pt": "Adequar-se aos horários do local"
+              },
               "isCorrect": true
             },
             {
-              "text": "Tomar una bebida energética",
+              "text": {
+                "es": "Tomar una bebida energética",
+                "en": "Have an energy drink",
+                "pt": "Tomar uma bebida energética"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 5,
-          "title": "¿Cuál es el peso permitido de la maleta para viajar?",
+          "title": {
+            "es": "¿Cuál es el peso permitido de la maleta para viajar?",
+            "en": "What is the allowed weight of luggage for travel?",
+            "pt": "Qual é o peso permitido da mala para viajar?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "18 kilos",
+              "text": {
+                "es": "18 kilos",
+                "en": "18 kilos",
+                "pt": "18 quilos"
+              },
               "isCorrect": false
             },
             {
-              "text": "21 kilos",
+              "text": {
+                "es": "21 kilos",
+                "en": "21 kilos",
+                "pt": "21 quilos"
+              },
               "isCorrect": false
             },
             {
-              "text": "23 kilos",
+              "text": {
+                "es": "23 kilos",
+                "en": "23 kilos",
+                "pt": "23 quilos"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 6,
-          "title": "¿Qué es un free tour?",
+          "title": {
+            "es": "¿Qué es un free tour?",
+            "en": "What is a free tour?",
+            "pt": "O que é um free tour?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Tour gratuito en micros abiertos",
+              "text": {
+                "es": "Tour gratuito en micros abiertos",
+                "en": "Free tour in open buses",
+                "pt": "Tour gratuito em micro-ônibus abertos"
+              },
               "isCorrect": false
             },
             {
-              "text": "Tour gratuito a pie",
+              "text": {
+                "es": "Tour gratuito a pie",
+                "en": "Free walking tour",
+                "pt": "Tour gratuito a pé"
+              },
               "isCorrect": true
             },
             {
-              "text": "Tour gratuito en bicicletas",
+              "text": {
+                "es": "Tour gratuito en bicicletas",
+                "en": "Free bike tour",
+                "pt": "Tour gratuito de bicicleta"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 7,
-          "title": "¿Cuál es el mejor metodo para idear un viaje turístico de pocos días?",
+          "title": {
+            "es": "¿Cuál es el mejor método para idear un viaje turístico de pocos días?",
+            "en": "What is the best method to plan a short tourist trip?",
+            "pt": "Qual é o melhor método para idealizar uma viagem turística de poucos dias?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Armar una planificación",
+              "text": {
+                "es": "Armar una planificación",
+                "en": "Make a plan",
+                "pt": "Montar um planejamento"
+              },
               "isCorrect": true
             },
             {
-              "text": "Planificar sobre la marcha",
+              "text": {
+                "es": "Planificar sobre la marcha",
+                "en": "Plan on the go",
+                "pt": "Planejar na hora"
+              },
               "isCorrect": false
             },
             {
-              "text": "Dejarse llevar tu intuición",
+              "text": {
+                "es": "Dejarse llevar tu intuición",
+                "en": "Let your intuition guide you",
+                "pt": "Deixar-se levar pela intuição"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 8,
-          "title": "La mejor forma de conseguir un vuelo low cost es...",
+          "title": {
+            "es": "La mejor forma de conseguir un vuelo low cost es...",
+            "en": "The best way to get a low-cost flight is...",
+            "pt": "A melhor forma de conseguir um voo low cost é..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Comprar en temporada alta",
+              "text": {
+                "es": "Comprar en temporada alta",
+                "en": "Buy in high season",
+                "pt": "Comprar na temporada alta"
+              },
               "isCorrect": false
             },
             {
-              "text": "Comprar en temporada media",
+              "text": {
+                "es": "Comprar en temporada media",
+                "en": "Buy in mid season",
+                "pt": "Comprar na temporada média"
+              },
               "isCorrect": false
             },
             {
-              "text": "Comprar en temporada baja",
+              "text": {
+                "es": "Comprar en temporada baja",
+                "en": "Buy in low season",
+                "pt": "Comprar na temporada baixa"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 9,
-          "title": "¿Cuál es el tamaño estándar de una maleta de mano?",
+          "title": {
+            "es": "¿Cuál es el tamaño estándar de una maleta de mano?",
+            "en": "What is the standard size of a carry-on bag?",
+            "pt": "Qual é o tamanho padrão de uma bagagem de mão?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "45 x 25 x 20 cm",
+              "text": {
+                "es": "45 x 25 x 20 cm",
+                "en": "45 x 25 x 20 cm",
+                "pt": "45 x 25 x 20 cm"
+              },
               "isCorrect": false
             },
             {
-              "text": "55 x 35 x 25 cm",
+              "text": {
+                "es": "55 x 35 x 25 cm",
+                "en": "55 x 35 x 25 cm",
+                "pt": "55 x 35 x 25 cm"
+              },
               "isCorrect": true
             },
             {
-              "text": "70 x 50 x 30 cm",
+              "text": {
+                "es": "70 x 50 x 30 cm",
+                "en": "70 x 50 x 30 cm",
+                "pt": "70 x 50 x 30 cm"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 10,
-          "title": "¿Qué visa de Estados Unidos te permite realizar viajes de turismo?",
+          "title": {
+            "es": "¿Qué visa de Estados Unidos te permite realizar viajes de turismo?",
+            "en": "What U.S. visa allows you to make tourist trips?",
+            "pt": "Que visto dos Estados Unidos permite realizar viagens de turismo?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": " B-2",
+              "text": {
+                "es": " B-2",
+                "en": "B-2",
+                "pt": "B-2"
+              },
               "isCorrect": true
             },
             {
-              "text": "C-2",
+              "text": {
+                "es": "C-2",
+                "en": "C-2",
+                "pt": "C-2"
+              },
               "isCorrect": false
             },
             {
-              "text": "D-2",
+              "text": {
+                "es": "D-2",
+                "en": "D-2",
+                "pt": "D-2"
+              },
               "isCorrect": false
             }
           ]
@@ -666,197 +1158,361 @@
     },
     {
       "id": 4,
-      "name": "¿En dónde queda?",
+      "name": {
+        "es": "¿En dónde queda?",
+        "en": "Where is it located?",
+        "pt": "Onde fica?"
+      },
       "imgURL": "/img/categoria-en-donde-queda.webp",
       "color": "#536ea9",
       "bonus": false,
       "questions": [
         {
           "id": 1,
-          "title": "¿Dónde se encuentra el Museo de Van Gogh?",
+          "title": {
+            "es": "¿Dónde se encuentra el Museo de Van Gogh?",
+            "en": "Where is the Van Gogh Museum located?",
+            "pt": "Onde se encontra o Museu Van Gogh?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Amsterdam",
+              "text": {
+                "es": "Amsterdam",
+                "en": "Amsterdam",
+                "pt": "Amsterdã"
+              },
               "isCorrect": true
             },
             {
-              "text": "Róterdam",
+              "text": {
+                "es": "Róterdam",
+                "en": "Rotterdam",
+                "pt": "Roterdã"
+              },
               "isCorrect": false
             },
             {
-              "text": "Utrecht",
+              "text": {
+                "es": "Utrecht",
+                "en": "Utrecht",
+                "pt": "Utrecht"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 2,
-          "title": "¿A qué país pertenece la Isla de Pascuas?",
+          "title": {
+            "es": "¿A qué país pertenece la Isla de Pascuas?",
+            "en": "Which country does Easter Island belong to?",
+            "pt": "A que país pertence a Ilha de Páscoa?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Australia",
+              "text": {
+                "es": "Australia",
+                "en": "Australia",
+                "pt": "Austrália"
+              },
               "isCorrect": false
             },
             {
-              "text": "Nueva Zelanda",
+              "text": {
+                "es": "Nueva Zelanda",
+                "en": "New Zealand",
+                "pt": "Nova Zelândia"
+              },
               "isCorrect": false
             },
             {
-              "text": "Chile",
+              "text": {
+                "es": "Chile",
+                "en": "Chile",
+                "pt": "Chile"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 3,
-          "title": "¿En qué país está actualmente el friso del Partenón?",
+          "title": {
+            "es": "¿En qué país está actualmente el friso del Partenón?",
+            "en": "In which country is the Parthenon frieze currently located?",
+            "pt": "Em que país está atualmente o friso do Partenon?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Londres",
+              "text": {
+                "es": "Londres",
+                "en": "London",
+                "pt": "Londres"
+              },
               "isCorrect": true
             },
             {
-              "text": "Atenas",
+              "text": {
+                "es": "Atenas",
+                "en": "Athens",
+                "pt": "Atenas"
+              },
               "isCorrect": false
             },
             {
-              "text": "París",
+              "text": {
+                "es": "París",
+                "en": "Paris",
+                "pt": "Paris"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 4,
-          "title": "El Buda más grande del mundo está en...",
+          "title": {
+            "es": "El Buda más grande del mundo está en...",
+            "en": "The largest Buddha in the world is in...",
+            "pt": "O maior Buda do mundo está em..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Tailandia",
+              "text": {
+                "es": "Tailandia",
+                "en": "Thailand",
+                "pt": "Tailândia"
+              },
               "isCorrect": true
             },
             {
-              "text": "China",
+              "text": {
+                "es": "China",
+                "en": "China",
+                "pt": "China"
+              },
               "isCorrect": false
             },
             {
-              "text": "Taiwán",
+              "text": {
+                "es": "Taiwán",
+                "en": "Taiwan",
+                "pt": "Taiwan"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 5,
-          "title": "¿En qué lugar de Estados Unidos está el Cloud Gate?",
+          "title": {
+            "es": "¿En qué lugar de Estados Unidos está el Cloud Gate?",
+            "en": "In which place in the United States is Cloud Gate located?",
+            "pt": "Em que lugar dos Estados Unidos está o Cloud Gate?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "New York",
+              "text": {
+                "es": "New York",
+                "en": "New York",
+                "pt": "Nova York"
+              },
               "isCorrect": false
             },
             {
-              "text": "Chicago",
+              "text": {
+                "es": "Chicago",
+                "en": "Chicago",
+                "pt": "Chicago"
+              },
               "isCorrect": true
             },
             {
-              "text": "Filadelfia",
+              "text": {
+                "es": "Filadelfia",
+                "en": "Philadelphia",
+                "pt": "Filadélfia"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 6,
-          "title": "La Garganta del Diablo está ubicada en...",
+          "title": {
+            "es": "La Garganta del Diablo está ubicada en...",
+            "en": "The Devil's Throat is located in...",
+            "pt": "A Garganta do Diabo está localizada em..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Brasil",
+              "text": {
+                "es": "Brasil",
+                "en": "Brazil",
+                "pt": "Brasil"
+              },
               "isCorrect": false
             },
             {
-              "text": "Argentina",
+              "text": {
+                "es": "Argentina",
+                "en": "Argentina",
+                "pt": "Argentina"
+              },
               "isCorrect": true
             },
             {
-              "text": "Paraguay",
+              "text": {
+                "es": "Paraguay",
+                "en": "Paraguay",
+                "pt": "Paraguai"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 7,
-          "title": "¿Dónde se encuentra la selva más grande del mundo?",
+          "title": {
+            "es": "¿Dónde se encuentra la selva más grande del mundo?",
+            "en": "Where is the largest jungle in the world located?",
+            "pt": "Onde se encontra a selva mais grande do mundo?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Asia",
+              "text": {
+                "es": "Asia",
+                "en": "Asia",
+                "pt": "Ásia"
+              },
               "isCorrect": false
             },
             {
-              "text": "África",
+              "text": {
+                "es": "África",
+                "en": "Africa",
+                "pt": "África"
+              },
               "isCorrect": false
             },
             {
-              "text": "América",
+              "text": {
+                "es": "América",
+                "en": "America",
+                "pt": "América"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 8,
-          "title": "El Taj-Mahal está situado en...",
+          "title": {
+            "es": "El Taj-Mahal está situado en...",
+            "en": "The Taj Mahal is located in...",
+            "pt": "O Taj Mahal está situado em..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Jaipur",
+              "text": {
+                "es": "Jaipur",
+                "en": "Jaipur",
+                "pt": "Jaipur"
+              },
               "isCorrect": false
             },
             {
-              "text": "Bombay",
+              "text": {
+                "es": "Bombay",
+                "en": "Mumbai",
+                "pt": "Mumbai"
+              },
               "isCorrect": false
             },
             {
-              "text": "Agra",
+              "text": {
+                "es": "Agra",
+                "en": "Agra",
+                "pt": "Agra"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 9,
-          "title": "El Tesoro de Petra se encuentra en...",
+          "title": {
+            "es": "El Tesoro de Petra se encuentra en...",
+            "en": "The Treasury of Petra is located in...",
+            "pt": "O Tesouro de Petra se encontra em..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Egipto",
+              "text": {
+                "es": "Egipto",
+                "en": "Egypt",
+                "pt": "Egito"
+              },
               "isCorrect": false
             },
             {
-              "text": "Jordania",
+              "text": {
+                "es": "Jordania",
+                "en": "Jordan",
+                "pt": "Jordânia"
+              },
               "isCorrect": true
             },
             {
-              "text": "Turquía",
+              "text": {
+                "es": "Turquía",
+                "en": "Turkey",
+                "pt": "Turquia"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 10,
-          "title": "¿Dónde se encuentra la librería más antigua del mundo?",
+          "title": {
+            "es": "¿Dónde se encuentra la librería más antigua del mundo?",
+            "en": "Where is the oldest bookstore in the world located?",
+            "pt": "Onde se encontra a livraria mais antiga do mundo?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Lisboa",
+              "text": {
+                "es": "Lisboa",
+                "en": "Lisbon",
+                "pt": "Lisboa"
+              },
               "isCorrect": true
             },
             {
-              "text": "Roma",
+              "text": {
+                "es": "Roma",
+                "en": "Rome",
+                "pt": "Roma"
+              },
               "isCorrect": false
             },
             {
-              "text": "Munich",
+              "text": {
+                "es": "Munich",
+                "en": "Munich",
+                "pt": "Munique"
+              },
               "isCorrect": false
             }
           ]
@@ -865,197 +1521,361 @@
     },
     {
       "id": 5,
-      "name": "Lugares",
+      "name": {
+        "es": "Lugares",
+        "en": "Places",
+        "pt": "Lugares"
+      },
       "imgURL": "/img/categoria-lugares.webp",
       "color": "#9f475d",
       "bonus": false,
       "questions": [
         {
           "id": 1,
-          "title": "¿Cómo se llama la librería más antigua del mundo?",
+          "title": {
+            "es": "¿Cómo se llama la librería más antigua del mundo?",
+            "en": "What is the name of the oldest bookstore in the world?",
+            "pt": "Como se chama a livraria mais antiga do mundo?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Bernard",
+              "text": {
+                "es": "Bernard",
+                "en": "Bernard",
+                "pt": "Bernard"
+              },
               "isCorrect": false
             },
             {
-              "text": "Bertrand",
+              "text": {
+                "es": "Bertrand",
+                "en": "Bertrand",
+                "pt": "Bertrand"
+              },
               "isCorrect": true
             },
             {
-              "text": "Bertolt",
+              "text": {
+                "es": "Bertolt",
+                "en": "Bertolt",
+                "pt": "Bertolt"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 2,
-          "title": "El lago más grande del mundo es...",
+          "title": {
+            "es": "El lago más grande del mundo es...",
+            "en": "The largest lake in the world is...",
+            "pt": "O maior lago do mundo é..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Lago Victoria",
+              "text": {
+                "es": "Lago Victoria",
+                "en": "Lake Victoria",
+                "pt": "Lago Vitória"
+              },
               "isCorrect": false
             },
             {
-              "text": "Lago Superior",
+              "text": {
+                "es": "Lago Superior",
+                "en": "Lake Superior",
+                "pt": "Lago Superior"
+              },
               "isCorrect": false
             },
             {
-              "text": "Mar Caspio",
+              "text": {
+                "es": "Mar Caspio",
+                "en": "Caspian Sea",
+                "pt": "Mar Cáspio"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 3,
-          "title": "Los restos del Titanic se pueden ver en...",
+          "title": {
+            "es": "Los restos del Titanic se pueden ver en...",
+            "en": "The remains of the Titanic can be seen in...",
+            "pt": "Os restos do Titanic podem ser vistos no..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Océano Pacífico",
+              "text": {
+                "es": "Océano Pacífico",
+                "en": "Pacific Ocean",
+                "pt": "Oceano Pacífico"
+              },
               "isCorrect": false
             },
             {
-              "text": "Océano Atlántico",
+              "text": {
+                "es": "Océano Atlántico",
+                "en": "Atlantic Ocean",
+                "pt": "Oceano Atlântico"
+              },
               "isCorrect": true
             },
             {
-              "text": "Océano Índico",
+              "text": {
+                "es": "Océano Índico",
+                "en": "Indian Ocean",
+                "pt": "Oceano Índico"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 4,
-          "title": "El parque nacional con mayor biodiversidad en EE.UU. es...",
+          "title": {
+            "es": "El parque nacional con mayor biodiversidad en EE.UU. es...",
+            "en": "The national park with the greatest biodiversity in the U.S. is...",
+            "pt": "O parque nacional com maior biodiversidade nos EUA é..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Yellowstone",
+              "text": {
+                "es": "Yellowstone",
+                "en": "Yellowstone",
+                "pt": "Yellowstone"
+              },
               "isCorrect": true
             },
             {
-              "text": "Blue Ridge Parkway",
+              "text": {
+                "es": "Blue Ridge Parkway",
+                "en": "Blue Ridge Parkway",
+                "pt": "Blue Ridge Parkway"
+              },
               "isCorrect": false
             },
             {
-              "text": "Yosemite",
+              "text": {
+                "es": "Yosemite",
+                "en": "Yosemite",
+                "pt": "Yosemite"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 5,
-          "title": "¿Cómo se llama la estructura con forma de flor de Buenos Aires?",
+          "title": {
+            "es": "¿Cómo se llama la estructura con forma de flor de Buenos Aires?",
+            "en": "What is the name of the flower-shaped structure in Buenos Aires?",
+            "pt": "Como se chama a estrutura em forma de flor de Buenos Aires?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Flor Indígena",
+              "text": {
+                "es": "Flor Indígena",
+                "en": "Indigenous Flower",
+                "pt": "Flor Indígena"
+              },
               "isCorrect": false
             },
             {
-              "text": "Floralis Genérica",
+              "text": {
+                "es": "Floralis Genérica",
+                "en": "Floralis Genérica",
+                "pt": "Floralis Genérica"
+              },
               "isCorrect": true
             },
             {
-              "text": "Flor de Ceibo",
+              "text": {
+                "es": "Flor de Ceibo",
+                "en": "Ceibo Flower",
+                "pt": "Flor de Ceibo"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 6,
-          "title": "El primer parque de atracciones del mundo es...",
+          "title": {
+            "es": "El primer parque de atracciones del mundo es...",
+            "en": "The first amusement park in the world is...",
+            "pt": "O primeiro parque de diversões do mundo é..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Central Pier",
+              "text": {
+                "es": "Central Pier",
+                "en": "Central Pier",
+                "pt": "Central Pier"
+              },
               "isCorrect": false
             },
             {
-              "text": "Wurstelprater",
+              "text": {
+                "es": "Wurstelprater",
+                "en": "Wurstelprater",
+                "pt": "Wurstelprater"
+              },
               "isCorrect": false
             },
             {
-              "text": "Bakken",
+              "text": {
+                "es": "Bakken",
+                "en": "Bakken",
+                "pt": "Bakken"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 7,
-          "title": "¿Qué museo tiene la mayor colección de piezas de arte?",
+          "title": {
+            "es": "¿Qué museo tiene la mayor colección de piezas de arte?",
+            "en": "Which museum has the largest collection of art pieces?",
+            "pt": "Que museu tem a maior coleção de peças de arte?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Museo del Louvre",
+              "text": {
+                "es": "Museo del Louvre",
+                "en": "Louvre Museum",
+                "pt": "Museu do Louvre"
+              },
               "isCorrect": true
             },
             {
-              "text": "Smithsonian Institution",
+              "text": {
+                "es": "Smithsonian Institution",
+                "en": "Smithsonian Institution",
+                "pt": "Smithsonian Institution"
+              },
               "isCorrect": false
             },
             {
-              "text": "Museo Britanico",
+              "text": {
+                "es": "Museo Británico",
+                "en": "British Museum",
+                "pt": "Museu Britânico"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 8,
-          "title": "En la Gran Sabana venezolana se encuentra la cascada...",
+          "title": {
+            "es": "En la Gran Sabana venezolana se encuentra la cascada...",
+            "en": "In the Venezuelan Gran Sabana is located the waterfall...",
+            "pt": "Na Gran Sabana venezuelana se encontra a cachoeira..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Salto Grande",
+              "text": {
+                "es": "Salto Grande",
+                "en": "Salto Grande",
+                "pt": "Salto Grande"
+              },
               "isCorrect": false
             },
             {
-              "text": "Salto Grande",
+              "text": {
+                "es": "Salto Kueka",
+                "en": "Salto Kueka",
+                "pt": "Salto Kueka"
+              },
               "isCorrect": false
             },
             {
-              "text": "Salto Ángel",
+              "text": {
+                "es": "Salto Ángel",
+                "en": "Angel Falls",
+                "pt": "Salto Anjo"
+              },
               "isCorrect": true
             }
           ]
         },
         {
           "id": 9,
-          "title": "¿Cuál es la playa con mayor visitas de turistas en el año?",
+          "title": {
+            "es": "¿Cuál es la playa con mayor visitas de turistas en el año?",
+            "en": "Which is the beach with the most tourist visits per year?",
+            "pt": "Qual é a praia com mais visitas de turistas no ano?"
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "Playa del Carmen",
+              "text": {
+                "es": "Playa del Carmen",
+                "en": "Playa del Carmen",
+                "pt": "Playa del Carmen"
+              },
               "isCorrect": false
             },
             {
-              "text": "Bora Bora",
+              "text": {
+                "es": "Bora Bora",
+                "en": "Bora Bora",
+                "pt": "Bora Bora"
+              },
               "isCorrect": true
             },
             {
-              "text": "Happy Bay Beach",
+              "text": {
+                "es": "Happy Bay Beach",
+                "en": "Happy Bay Beach",
+                "pt": "Happy Bay Beach"
+              },
               "isCorrect": false
             }
           ]
         },
         {
           "id": 10,
-          "title": "El primer aeropuerto que se inauguró fue...",
+          "title": {
+            "es": "El primer aeropuerto que se inauguró fue...",
+            "en": "The first airport to be inaugurated was...",
+            "pt": "O primeiro aeroporto que foi inaugurado foi..."
+          },
           "bonus": false,
           "answers": [
             {
-              "text": "College Park",
+              "text": {
+                "es": "College Park",
+                "en": "College Park",
+                "pt": "College Park"
+              },
               "isCorrect": true
             },
             {
-              "text": "Aeropuerto de Hamburgo",
+              "text": {
+                "es": "Aeropuerto de Hamburgo",
+                "en": "Hamburg Airport",
+                "pt": "Aeroporto de Hamburgo"
+              },
               "isCorrect": false
             },
             {
-              "text": "Aeropuerto de Shoreham",
+              "text": {
+                "es": "Aeropuerto de Shoreham",
+                "en": "Shoreham Airport",
+                "pt": "Aeroporto de Shoreham"
+              },
               "isCorrect": false
             }
           ]
